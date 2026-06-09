@@ -137,10 +137,8 @@ trojan://a0514d9b-d109-47fd-b173-1e7f83268f21@104.16.183.101:443?security=tls&sn
 trojan://affae2e0-e84b-11ec-b09f-1239d0255272@trojan1.udpgw.com:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-172.104.51.247-4929
 trojan://b17fe152-2615-4fe1-b80e-3c61b557481d@v02.gutingting.com:30051?security=tls&sni=v2vn01.fuqiangren.com#%F0%9F%8F%81RELAY-172.65.211.209-1160
 trojan://b26e31e5-eac1-45b0-9069-83830bd69521@20.187.85.198:443?security=tls&sni=hkt.iamnotagoodman.com#%F0%9F%87%AD%F0%9F%87%B0HK-20.187.85.198-3902
-trojan://b447bda5-35b2-4332-9746-994e5db3fa4e@g.772fk.cn:15762?security=tls&sni=tur01.ckcloud.info#%F0%9F%87%AD%F0%9F%87%B0HK-103.181.165.124-0731
-trojan://b447bda5-35b2-4332-9746-994e5db3fa4e@g.772fk.cn:40276?security=tls&sni=sg01.ckcloud.info#%F0%9F%87%AD%F0%9F%87%B0HK-103.181.165.124-0727
-trojan://b447bda5-35b2-4332-9746-994e5db3fa4e@g.772fk.cn:45852?security=tls&sni=id01.ckcloud.info#%F0%9F%87%AD%F0%9F%87%B0HK-103.181.165.124-0729
-trojan://b447bda5-35b2-4332-9746-994e5db3fa4e@g.772fk.cn:54295?security=tls&sni=vn01.ckcloud.info#%F0%9F%87%AD%F0%9F%87%B0HK-103.181.165.124-0728
+trojan://b447bda5-35b2-4332-9746-994e5db3fa4e@gg.772fk.cn:21526?security=tls&sni=sg02.ckcloud.info#%F0%9F%87%AD%F0%9F%87%B0HK-103.181.165.124-0726
+trojan://b447bda5-35b2-4332-9746-994e5db3fa4e@gg.772fk.cn:63640?security=tls&sni=aus01.ckcloud.info#%F0%9F%87%AD%F0%9F%87%B0HK-103.181.165.124-0730
 trojan://b504c643-d081-4c90-8f50-9b0bf0b0902d@v02.gutingting.com:20223?security=tls&sni=v2sg01.fuqiangren.com#%F0%9F%8F%81RELAY-172.65.211.209-1099
 trojan://b640d791-ff83-4300-b509-c2a02f97f167@uk1.trojanvh.xyz:80?security=tls#%F0%9F%87%A6%F0%9F%87%BAAU-103.224.212.216-0959
 trojan://b640d791-ff83-4300-b509-c2a02f97f167@uk1.trojanvh.xyz:80?security=tls#%F0%9F%87%A6%F0%9F%87%BAAU-103.224.212.216-7221
@@ -206,6 +204,7 @@ trojan://pro@_LlpRWwEh4tRl4cSzc0TZDxM@starlink-sg2.mfa.cat:20000?security=tls#%F
 trojan://qDVh0NalwefxyZlHh3Ni2JSlhErcuC3Wiq@91.233.8.138:443?security=tls&sni=www.homelywebs.click#%F0%9F%87%A9%F0%9F%87%AADE-91.233.8.138-0110
 trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?security=tls&sni=cdn-21.gsmxreality.com&type=grpc&serviceName=443trojan#%F0%9F%8F%81RELAY-172.67.204.84-1635
 trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@172.238.120.124:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-172.238.120.124-0753
+trojan://rXyShM8Jni+5Sbq3k4gkyr5Lq0zOMRL2Uf@45.79.8.17:443?security=tls&sni=45.79.8.17#%F0%9F%87%BA%F0%9F%87%B8US-45.79.8.17-0034
 trojan://rYuChHcwQZskq9E0zdoR@103.45.245.208:2053?security=tls&sni=vpn5.rnmcnm.com#%F0%9F%87%AA%F0%9F%87%B8ES-103.45.245.208-0717
 trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?security=tls&sni=172.236.220.10#%F0%9F%87%A9%F0%9F%87%AADE-172.236.220.10-0747
 trojan://t1k169n5zmvvwn96r9ft@146.70.90.197:57452?security=tls#%F0%9F%87%AE%F0%9F%87%AAIE-146.70.90.197-4377
