@@ -148,6 +148,7 @@ trojan://f6a0a650-306e-11ee-b692-1239d0255272@51.158.146.183:443?security=tls&sn
 trojan://gcuCpQfaiVeDBdWG@211.76.176.97:19128?security=tls&sni=yazhou10.dynu.net#%F0%9F%87%B9%F0%9F%87%BCTW-211.76.176.97-0417
 trojan://gcuCpQfaiVeDBdWG@211.76.176.98:19128?security=tls&sni=yazhou10.dynu.net#%F0%9F%87%B9%F0%9F%87%BCTW-211.76.176.98-0768
 trojan://gcuCpQfaiVeDBdWG@jpbgp.netvigor.cc:19128?security=tls&sni=yazhou10.dynu.net#%F0%9F%87%B9%F0%9F%87%BCTW-211.72.38.69-0418
+trojan://gcuCpQfaiVeDBdWG@jpbgp.netvigor.cc:19128?security=tls&sni=yazhou10.dynu.net#%F0%9F%87%B9%F0%9F%87%BCTW-211.72.38.69-0759
 trojan://humanity@104.16.174.12:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA | 104.16.174.12
 trojan://humanity@104.16.174.36:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.ignitelimit.com#🏴‍☠️ UN | 104.16.174.36
 trojan://humanity@104.18.152.97:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA | 104.18.152.97
