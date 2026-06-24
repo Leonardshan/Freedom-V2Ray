@@ -99,6 +99,7 @@ trojan://IL37892054@growing-tuna.rooster465.autos:443?security=tls#%F0%9F%87%B0%
 trojan://IL37892054@just-alpaca.rooster465.autos:443?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-185.244.208.52-4666
 trojan://IL37892054@outgoing-ladybird.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-43.203.230.64-4667
 trojan://IL37892054@select-marmoset.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-43.203.243.134-4676
+trojan://IL37892054@upright-rhino.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-52.195.12.80-4658
 trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@ch-2.bexum.fun:443?security=tls&sni=ch-2.bexum.fun#%F0%9F%87%A8%F0%9F%87%BFCZ-46.8.113.142-0126
 trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@de-1.hysteria.ltd:9443?security=tls&sni=de-1.hysteria.ltd#%F0%9F%87%A9%F0%9F%87%AADE-94.103.173.70-0111
 trojan://M08tvzYWtUEJNtbpHp@194.124.216.192:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-194.124.216.192-4726
@@ -112,6 +113,8 @@ trojan://O4O8.Ew+ujFX6GJBQ=xQr.heGwux0GYHqk@45.61.52.243:443?security=tls&sni=45
 trojan://P6oS8vzFbu@45.130.125.2:443?type=ws&security=tls&path=/db&host=sb.farxmode.ir&sni=sb.farxmode.ir&fp=firefox&insecure=0&allowInsecure=0#🇸🇨 SC | 45.130.125.2
 trojan://SoftNetConnect@37.156.44.50:42549?security=tls&headerType=none&fp=chrome&type=tcp&sni=www.speedtest.net#🇨🇭 CH | 37.156.44.50
 trojan://SoftNetConnect@37.156.44.50:42549?type=tcp&security=tls&sni=www.speedtest.net&alpn=h2,http/1.1,h3&fp=chrome&insecure=1&allowInsecure=1#🇨🇭 CH | 37.156.44.50
+trojan://SyOxpKxC8u5jgNa3DCZ34y3D9CRenFcaABpYATEeqI2RSaXD76zS8YF0Owl3lZ@219.76.13.181:443?security=tls&sni=arbettp.freetrade.link#%F0%9F%87%AD%F0%9F%87%B0HK-219.76.13.181-6450
+trojan://TrojanPass2026%21@2.26.54.174:8448?security=tls&sni=foolsland.ru#%F0%9F%87%A9%F0%9F%87%AADE-2.26.54.174-0160
 trojan://WF42809561@nearby-muskrat.rooster465.autos:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-54.184.22.123-4691
 trojan://WF42809561@outgoing-cockatoo.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-13.125.222.125-4668
 trojan://WF42809561@top-goshawk.rooster465.autos:443?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-185.244.208.59-4669
@@ -179,6 +182,8 @@ trojan://t1k169n5zmvvwn96r9ft@146.70.90.197:57452?security=tls#%F0%9F%87%AE%F0%9
 trojan://tUtK5TKdjxsPnOyritLtv8OQWHAK8f8yNR@130.94.94.15:443?security=tls&sni=130.94.94.15#%F0%9F%87%AE%F0%9F%87%A9ID-130.94.94.15-0145
 trojan://telegram-id-directvpn@13.39.209.35:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.39.209.35
 trojan://telegram-id-directvpn@15.237.161.109:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.237.161.109
+trojan://telegram-id-privatevpns@13.39.209.35:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.39.209.35
+trojan://telegram-id-privatevpns@15.237.161.109:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.237.161.109
 trojan://telegram-id-v2rayvpnchannel@13.39.209.35:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.39.209.35
 trojan://telegram-id-v2rayvpnchannel@15.237.161.109:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.237.161.109
 trojan://uThbm8eGmXZ7GKqnWy@nl-4.tr202507.com:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-194.124.216.109-4727
