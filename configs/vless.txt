@@ -1,7 +1,5 @@
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.24.151:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#🇺🇸 US | 151.101.24.151
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@172.67.69.236:8080?path=/&security=none&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#🇨🇦 CA | 172.67.69.236
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.118.76:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.36.118.76
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.241.88:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.237.241.88
 vless://05877950-c650-ecda-3a72-f94af411f4fd@45.131.4.118:443?path=/sync&security=tls&encryption=none&insecure=0&host=meow.infinityconfig.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=meow.infinityconfig.workers.dev#🇮🇷 IR | 45.131.4.118
 vless://06bcd513-ef0b-4c0c-a03b-e25fcda66fe2@45.195.137.5:8443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=storage.yandex.net&sid=40ce08cf20c67003&fp=firefox&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&headerType=none#🇹🇷 TR | 45.195.137.5
 vless://06bcd513-ef0b-4c0c-a03b-e25fcda66fe2@ch-gt-02.com:8443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=storage.yandex.net&sid=40ce08cf20c67003&fp=firefox&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&headerType=none#🇹🇷 TR | 45.195.137.48
@@ -106,7 +104,6 @@ vless://9cda451e-0adf-4df1-a5b4-7fec8f363c10@all20.allenshop100.ir:443?security=
 vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&encryption=none&headerType=none&type=tcp#🇮🇹 IT | 204.216.216.23
 vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&encryption=none&headerType=none&type=tcp#🏴‍☠️ UN | 204.216.216.23
 vless://9f135709-60a1-4a9b-b31c-78d326d8752a@188.114.97.6:443?mode=stream-one&path=/assignment----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=www.middle.cc.cd&fp=firefox&type=xhttp&allowInsecure=0&sni=www.middle.cc.cd#🇨🇦 CA | 188.114.97.6
-vless://9fb2d0b1-171b-45c0-aae3-3313a73cba29@193.247.82.40:448?security=reality&encryption=none&pbk=MbaP34cAgypweQZ7L2hx1wihw_K5c3g4SBlOpgD7wRo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.googletagmanager.com&sid=e0274f4ac227090f#🇵🇱 PL | 193.247.82.40
 vless://AlfredConfig@199.232.237.245:443?mode=auto&path=/&security=tls&alpn=h2&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=alfred-13.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#🇺🇸 US | 199.232.237.245
 vless://CHEF_VPN@chefox.kkkl.ir:443?security=reality&encryption=none&pbk=7DQXReCCCModVwZEU9j4QFsWtzEbGNtrRHwMCk2NUD8&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=C8EF#🇩🇪 DE | 216.126.229.209
 vless://DIGIV2RAY@www.speedtest.net:2052?path=/tm-Digiv2-__teldIGIv2__-DIGIV&security=none&encryption=none&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&type=httpupgrade#🇨🇦 CA | 104.17.147.22
@@ -134,7 +131,6 @@ vless://adb2e664-7938-ffc3-2a63-fb7a82c6f701@23.227.39.45:8880?security=none&typ
 vless://af2c3727-c1e7-41c1-86b5-7fb5fcc63359@191.40.5.176:2087?encryption=none&host=&path=/&security=none&type=ws#🇩🇪 DE | 191.40.5.176
 vless://af2c3727-c1e7-41c1-86b5-7fb5fcc63359@64.118.155.66:44918?encryption=none&security=none&type=tcp#🇺🇸 US | 64.118.155.66
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=r1.mizulina.top#🇷🇺 RU | 85.234.114.53
-vless://b08d2238-2601-4a79-b1db-c4816574b3d1@185.147.27.105:80?encryption=none&type=ws&path=/#🇷🇺 RU | 185.147.27.105
 vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@188.114.97.6:443?path=/hdgrbws#🇨🇦 CA | 188.114.97.6
 vless://b37be529-83c9-4851-a3cf-73d7d05bf308@45.130.125.76:8443?path=/&security=tls&encryption=none&insecure=0&host=drrfddgbv.turbooserver.net.tr&type=ws&allowInsecure=0&sni=drrfddgbv.turbooserver.net.tr#🇸🇨 SC | 45.130.125.76
 vless://b4b8aa1f-77d2-4851-a5a4-f78886f3e997@138.124.186.201:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com#🇷🇺 RU | 138.124.186.201
