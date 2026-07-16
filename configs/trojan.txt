@@ -40,8 +40,6 @@ trojan://8800c518-e68a-4441-a45c-cd67855784c8@hk2.sanfen001.pics:443?security=tl
 trojan://8800c518-e68a-4441-a45c-cd67855784c8@jp2.sanfen001.pics:443?security=tls&sni=jp1.sanfen001.pics#%F0%9F%8F%81RELAY-172.67.215.250-5300
 trojan://8800c518-e68a-4441-a45c-cd67855784c8@kr1.sanfen001.pics:443?security=tls#%F0%9F%8F%81RELAY-172.67.215.250-5301
 trojan://8800c518-e68a-4441-a45c-cd67855784c8@kr2.sanfen001.pics:443?security=tls&sni=kr1.sanfen001.pics#%F0%9F%8F%81RELAY-104.21.91.112-5302
-trojan://8b6daf15-8342-482d-b894-1239fd98ce7f@149.56.141.11:443?security=tls#%F0%9F%87%A8%F0%9F%87%A6CA-149.56.141.11-3771
-trojan://8b6daf15-8342-482d-b894-1239fd98ce7f@149.56.141.11:443?security=tls#%F0%9F%87%A8%F0%9F%87%A6CA-149.56.141.11-4483
 trojan://8r%3C%5B9%27l6hAO%238ZQi@151.241.215.148:443?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%AE%F0%9F%87%B9IT-151.241.215.148-2197
 trojan://8r%3C%5B9%27l6hAO%238ZQi@152.53.200.89:8443?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B3%F0%9F%87%B1NL-152.53.200.89-2199
 trojan://8r%3C%5B9%27l6hAO%238ZQi@91.221.190.80:443?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B3%F0%9F%87%B1NL-91.221.190.80-2196
@@ -123,7 +121,6 @@ trojan://MiTiVPN@89.116.250.135:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/--
 trojan://OccIqeORGQwiNkwS@jpbgp.netvigor.cc:19128?security=tls&sni=yazhou10.dynu.net#%F0%9F%87%AD%F0%9F%87%B0HK-203.218.181.48-2235
 trojan://PI36027154@exciting-grizzly.rooster465.autos:443?security=tls&sni=exciting-grizzly.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-52.194.192.245-0137
 trojan://S.ibYdZshHTF-ne.M+.Fznp_-hyFFnCSix@149.104.104.58:443?security=tls&sni=149.104.104.58#%F0%9F%87%B8%F0%9F%87%A6SA-149.104.104.58-0191
-trojan://SyOxpKxC8u5jgNa3DCZ34y3D9CRenFcaABpYATEeqI2RSaXD76zS8YF0Owl3lZ@219.76.13.181:443?security=tls&sni=arbettp.freetrade.link#%F0%9F%87%AD%F0%9F%87%B0HK-219.76.13.181-7639
 trojan://VPNCUSTOMIZE@162.159.38.183:443?type=xhttp&security=tls&path=/config&host=bvck-oizksj-swin-usje-c-o.offers.de5.net&mode=stream-one&sni=ww.offers.de5.net&insecure=0&allowInsecure=0#🇺🇸 US | 162.159.38.183
 trojan://VPNCUSTOMIZE@188.114.97.6:443?type=xhttp&security=tls&path=/config&host=bvck-oizksj-swin-usje-c-o.offers.de5.net&mode=stream-one&sni=ww.offers.de5.net&insecure=0&allowInsecure=0#🇨🇦 CA | 188.114.97.6
 trojan://WF42809561@evolving-kangaroo.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-54.180.140.200-5810
@@ -147,6 +144,7 @@ trojan://affae2e0-e84b-11ec-b09f-1239d0255272@trojan1.udpgw.com:443?security=tls
 trojan://b26e31e5-eac1-45b0-9069-83830bd69521@20.187.85.198:443?security=tls&sni=hkt.iamnotagoodman.com#%F0%9F%87%AD%F0%9F%87%B0HK-20.187.85.198-5381
 trojan://b640d791-ff83-4300-b509-c2a02f97f167@uk1.trojanvh.xyz:80?security=tls#%F0%9F%87%A6%F0%9F%87%BAAU-103.224.212.216-2440
 trojan://b640d791-ff83-4300-b509-c2a02f97f167@uk1.trojanvh.xyz:80?security=tls#%F0%9F%87%A6%F0%9F%87%BAAU-103.224.212.216-8641
+trojan://b8808043-6566-4923-9195-e66bfb553d57@51.38.99.96:443?security=tls&sni=ba24.ir#%F0%9F%87%AB%F0%9F%87%B7FR-51.38.99.96-2585
 trojan://bc7593fe-0604-4fbe-a70bYWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTaclWNFc1RmRBNk5NQU5KSnga3fa58ac5a3ef0-b4ab-11eb-b65e-1239d0255272@ca-trojan.bonds.id:443?security=tls#%F0%9F%87%A8%F0%9F%87%A6CA-51.222.86.136-3167
 trojan://c0fde6ac-a07c-4f60-84ae-e7ed4da78a6f@15.204.210.176:80?security=tls&sni=15.204.210.176#%F0%9F%87%BA%F0%9F%87%B8US-15.204.210.176-9464
 trojan://c0fde6ac-a07c-4f60-84ae-e7ed4da78a6f@15.204.210.176:80?security=tls&sni=telewebion.com#%F0%9F%87%BA%F0%9F%87%B8US-15.204.210.176-9466
