@@ -28,7 +28,6 @@ vless://31d3bb30-fbb1-4e25-ac62-6dbca39fe439@104.17.108.1:443?encryption=none&ty
 vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?path=/@Prime_Verse?ed=2560&security=tls&encryption=none&host=MydigiKala.pAges.dEv&type=ws&sni=PaGes.deV#🇨🇦 CA | 104.17.147.22
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.20.6.134:80?encryption=none&type=ws&host=vip.yaml7.ggff.net&path=/+@ProxyVPN11&security=none#🇨🇦 CA | 104.20.6.134
 vless://3a5c35c9-101c-4bfc-a636-9eee8a7f7d58@storybot.aigcsoft.site:443?path=/42766/nobitex.ir&security=tls&encryption=none&insecure=0&host=michal.irandoc.info&fp=chrome&type=ws&allowInsecure=0&sni=sni2.irandoc.info#🇸🇬 SG | 43.174.247.53
-vless://3e0cbd37-467f-4988-a72f-b37cd4a97959@nodedivice.chickenkiller.com:443?security=reality&encryption=none&pbk=IhbpvWBZmJEzDs4eI2zoFmL_a-1J_7Z7Sepyrn7-xF8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=nodefulcrum.mooo.com&sid=6547735997055a35#🇩🇪 DE | 144.31.73.130
 vless://463c1864-7501-f5e0-d869-5c18f92ad0b0@x4g-production-dhthht.up.railway.app:443?path=/ws/463c1864-7501-f5e0-d869-5c18f92ad0b0&security=tls&alpn=http/1.1&encryption=none&host=x4g-production-dhthht.up.railway.app&fp=ios&type=ws&sni=x4g-production-dhthht.up.railway.app#🇺🇸 US | 69.46.46.118
 vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.43:80?path=/&security=none&encryption=none&host=tt.andishehparenting.com&type=ws#🇨🇦 CA | 172.64.146.43
 vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.165:80?path=/&security=none&encryption=none&host=tt.andishehparenting.com&type=ws#🇨🇦 CA | 172.64.147.165
