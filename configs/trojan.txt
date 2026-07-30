@@ -149,7 +149,6 @@ trojan://KV63147582@game-firefly.rooster465.autos:443?security=tls#%F0%9F%87%B5%
 trojan://KV63147582@legible-possum.rooster465.autos:443?security=tls&sni=legible-possum.rooster465.autos#%F0%9F%87%B3%F0%9F%87%B1NL-193.169.239.146-0214
 trojan://KV63147582@more-trout.rooster465.autos:443?security=tls&sni=more-trout.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1PL-202.78.163.172-0201
 trojan://KV63147582@wondrous-dogfish.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-95.85.94.137-6012
-trojan://M08tvzYWtUEJNtbpHp@194.124.216.192:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-194.124.216.192-6023
 trojan://M08tvzYWtUEJNtbpHp@nl-4.tr202512.com:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-194.124.216.187-6022
 trojan://MITIVPN@104.17.148.22:8443?security=tls&sni=mehrosaboran---mehrosaboran-7.kingnetwork.ir&type=ws&path=/---&Host=mehrosaboran---mehrosaboran-7.kingnetwork.ir#%F0%9F%8F%81RELAY-104.17.148.22-0453
 trojan://MITIVPN@104.17.148.22:8443?type=ws&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/usa&security=tls&sni=mehrosaboran---mehrosaboran-7.kingnetwork.ir&fp=chrome&alpn=http/1.1&allowInsecure=1#🇨🇦 CA | 104.17.148.22
