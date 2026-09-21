@@ -106,7 +106,6 @@ vless://b37be529-83c9-4851-a3cf-73d7d05bf308@45.130.125.76:8443?path=/&security=
 vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@149.202.58.99:443?path=/vws/&security=tls&encryption=none&insecure=0&host=bab-6.site&fp=chrome&type=ws&allowInsecure=0&sni=bab-6.site#🇫🇷 FR | 149.202.58.99
 vless://b79948e1-a34a-480d-8eb7-260f809e1b6a@104.17.108.1:443?encryption=none&type=xhttp&security=tls&path=/api/v2/feed&host=aa.farxmode.ir&mode=packet-up&extra={"headers":{"User-Agent":"Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/122.0.0.0+Safari/537.36"},"xPaddingBytes":"100-1000"}&sni=aa.farxmode.ir&alpn=h2,http/1.1&fp=random#🇨🇦 CA | 104.17.108.1
 vless://b813cbc9-dc15-4348-9765-b99dc76d4422@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=1&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#🇺🇸 US | 199.232.78.159
-vless://b8799fac-622a-4142-aab2-2aa862ad35f2@185.143.234.235:80?encryption=none&security=none&type=ws&host=vixon.portab.org&path=/#🇮🇷 IR | 185.143.234.235
 vless://bcce095a-9f98-4e23-a68c-8bbecb785dcd@104.19.141.3:443?path=/213.35.100.31=47112&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#🇨🇦 CA | 104.19.141.3
 vless://bea9e85d-505c-47f0-a86e-42151c03637c@66.33.22.226:20610?encryption=none&security=none&type=ws&path=/#🇺🇸 US | 66.33.22.226
 vless://c21631d5-36c9-4664-b575-97eca17456be@neth8.lunariai.ru:443?encryption=none&security=none&type=ws&host=neth8.lunariai.ru&path=/#🇩🇪 DE | 2.27.205.59
