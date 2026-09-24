@@ -138,9 +138,6 @@ vless://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@91.215.40.6:443?mode=gun&security=r
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.152.170:22222?encryption=none&security=none&type=tcp#🇫🇷 FR | 13.36.152.170
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.152.170:22223?encryption=none&security=none&type=tcp#🇫🇷 FR | 13.36.152.170
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.152.170:22224?encryption=none&security=none&type=tcp#🇫🇷 FR | 13.36.152.170
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.77.1:22222?encryption=none&security=none&type=tcp#🇫🇷 FR | 35.181.77.1
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.77.1:22223?encryption=none&security=none&type=tcp#🇫🇷 FR | 35.181.77.1
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.77.1:22224?encryption=none&security=none&type=tcp#🇫🇷 FR | 35.181.77.1
 vless://e7be1334-6a1d-47c0-8c9a-c7a5b8575499@147.182.183.207:443?mode=auto&path=/@Grizzlyvpn&security=reality&encryption=none&pbk=z--KbBlQtkBgTcrtdBJeGeCymIrLdaUDwkb44pAp6nY&fp=chrome&spx=/&type=xhttp&sni=yahoo.com&sid=4c#🇺🇸 US | 147.182.183.207
 vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@162.19.10.99:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nasnet-162191099-direct.mbghalibaf.com#🇫🇷 FR | 162.19.10.99
 vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@57.129.96.67:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nasnet-571299667-direct.mbghalibaf.com#🇩🇪 DE | 57.129.96.67
