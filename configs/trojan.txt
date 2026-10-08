@@ -147,6 +147,7 @@ trojan://ND91608427@tough-robin.rooster465.autos:443?security=tls#%F0%9F%87%B8%F
 trojan://ND91608427@wise-bengal.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-3.35.156.69-5685
 trojan://NQ26071394@better-molly.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-47.128.80.222-5646
 trojan://NQ26071394@capable-baboon.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-13.114.81.227-5683
+trojan://NQ26071394@capable-jay.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-54.169.137.148-5594
 trojan://NQ26071394@devoted-heron.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-3.35.140.206-5589
 trojan://NQ26071394@elegant-marten.rooster465.autos:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-34.218.48.137-5681
 trojan://NQ26071394@flexible-gannet.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-54.151.130.78-5666
@@ -262,6 +263,7 @@ trojan://humanity@188.42.145.180:443?security=tls&sni=www.volumeroot.com&type=ws
 trojan://humanity@203.202.232.211:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&type=ws&allowInsecure=0&sni=www.volumeroot.com#🇹🇷 TR | 203.202.232.211
 trojan://humanity@212.183.88.136:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment&Host=www.calmlunch.com#%F0%9F%87%A6%F0%9F%87%B9AT-212.183.88.136-0551
 trojan://humanity@212.183.88.136:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#%F0%9F%87%A6%F0%9F%87%B9AT-212.183.88.136-0850
+trojan://humanity@212.227.144.37:8443?security=tls&sni=www.calmlunch.com#%F0%9F%87%AA%F0%9F%87%B8ES-212.227.144.37-2598
 trojan://humanity@45.130.125.112:443?security=tls#%F0%9F%8F%81RELAY-45.130.125.112-5307
 trojan://humanity@45.130.125.160:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment&Host=www.calmlunch.com#%F0%9F%8F%81RELAY-45.130.125.160-0546
 trojan://humanity@45.130.125.160:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#%F0%9F%8F%81RELAY-45.130.125.160-0847
