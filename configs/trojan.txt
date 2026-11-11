@@ -35,6 +35,7 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.132:443?security=tls&sni=co
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.131:443?security=tls&sni=www.discovergreatjobsandadvanceyourcareer.com&insecure=1&fp=chrome&type=tcp#🇪🇸 ES | 66.163.118.131
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.166:443?security=tls#%F0%9F%87%AA%F0%9F%87%B8ES-66.163.118.166-0586
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.203:443?security=tls&host=/?TELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&type=tcp&sni=blog.discovergreatjobsandadvanceyourcareer.com#🇪🇸 ES | 66.163.118.203
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.203:443?security=tls&insecure=0&host=/?Telegram---@bored_vpn&headerType=none&type=tcp&allowInsecure=0&sni=blog.discovergreatjobsandadvanceyourcareer.com#🇪🇸 ES | 66.163.118.203
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.203:443?security=tls&insecure=0&host=/?Telegram---mehrosaboran&headerType=none&type=tcp&allowInsecure=0&sni=blog.discovergreatjobsandadvanceyourcareer.com#🇪🇸 ES | 66.163.118.203
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.244:443?security=tls#%F0%9F%87%AA%F0%9F%87%B8ES-66.163.118.244-0587
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.40:443?security=tls#%F0%9F%87%AA%F0%9F%87%B8ES-66.163.118.40-2578
@@ -329,5 +330,6 @@ trojan://mitivpn@104.16.72.70:443?path=/index.php/ed=mitivpn&security=tls&alpn=h
 trojan://mitivpn@188.114.97.6:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&host=de.mitivpn.global.ssl.b5r.ir&fp=chrome&type=ws&sni=b5r.ir#🇨🇦 CA | 188.114.97.6
 trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?security=tls&sni=cdn-21.gsmxreality.com&type=grpc&serviceName=443trojan#%F0%9F%8F%81RELAY-172.67.204.84-2646
 trojan://xxoo@138.124.183.216:443?security=tls#%F0%9F%87%AA%F0%9F%87%AAEE-138.124.183.216-3155
+trojan://xxoo@138.124.183.222:443?security=tls&sni=138.124.183.222#%F0%9F%87%AA%F0%9F%87%AAEE-138.124.183.222-2758
 trojan://xxoo@3.34.6.217:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-3.34.6.217-4438
 trojan://xxoo@us.blazeppn.info:443?security=tls&sni=telewebion.com#%F0%9F%87%A9%F0%9F%87%AADE-157.90.33.74-7309
